@@ -1,0 +1,38 @@
+.container {
+    max-width: 960px;
+}
+header > a > img:hover {
+   opacity: 0.8;
+}
+.my-div {
+    max-width: 750px;
+}
+.card {
+    width: 296px;
+    height: 330px;
+}
+.card-header {
+    width: 295px;
+    height: 61px;    
+}
+.card-body {
+    width: 295px;
+    height: 270px;
+    text-align: center;    
+}
+button {
+    width: 262px;
+}
+.table-pricing {
+    max-width: 936px;
+    height: 323px;
+}
+body {
+    background: linear-gradient(to bottom, #E7EBFA, white);
+    background-repeat: no-repeat;
+    height: 100px;
+  }
+.table-img {
+    width: 24px;
+    height: 24px; 
+}
