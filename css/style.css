@@ -20,9 +20,6 @@ header > a > img:hover {
     height: 270px;
     text-align: center;    
 }
-button {
-    width: 262px;
-}
 .table-pricing {
     max-width: 936px;
     height: 323px;
